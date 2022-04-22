@@ -1,4 +1,4 @@
-# replace_timetable_subject_names.php
+# replace_timetable_subject_names
 Very simple script to replace Untis' shortnames of subjects in GPU001.TXT with long names.
 
 This script can be used to replace all the shortnames for the schools subjects in GPU001.TXT (like "De") with long names (like "Deutsch") to make the timetable look nicer in IServ. 
